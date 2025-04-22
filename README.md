@@ -1,5 +1,8 @@
 # Taskno.2
 The dataset originates from a fictional retail company — Superstore — operating across various regions in the United States. It contains detailed sales transaction records over multiple years, focusing on customer orders, product information, shipping details, and financial performance metrics.
+### Tool used
+Power BI
+PPT
 ## Insights
 ### 1. Overall Sales & Profit Performance
 Total Sales: $2.26 million
@@ -38,5 +41,12 @@ Capitalize on West region: High performance — ideal for new launches or target
 Push High-Margin Products: Promote profitable sub-categories like Copiers, Phones, and Accessories.
 Investigate South region: Low performance — maybe needs more marketing or better logistics.
 Leverage Jan & July spikes: Plan marketing pushes or offers during these high-demand months.
+
+## Dashboard
+![Screenshot 2025-04-22 213034](https://github.com/user-attachments/assets/8db4cc97-bf85-44e5-98df-a58e4f2c7e9a)
+![Screenshot 2025-04-22 213108](https://github.com/user-attachments/assets/bbe9c155-b611-48ef-b560-0c7ed4e473a6)
+![Screenshot 2025-04-22 213204](https://github.com/user-attachments/assets/83c763aa-fc6b-4a22-8978-f29b23a32c01)
+
+
 
 
