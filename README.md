@@ -13,7 +13,7 @@ This suggests an average order value of about $230 and an average profit per ord
 West leads in both Sales and Profit.
 Central has relatively low profit compared to its sales volume, indicating lower margins or higher costs.
 ###  3. Delivery Insights
-Average Delivery Days: 4 days
+*Average Delivery Days:* 4 days
 Fastest Delivery: 0 days (same-day shipping)
 Slowest Delivery: 7 days
 This indicates a decent delivery performance, but there's room to optimize those longer deliveries.
