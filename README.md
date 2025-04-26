@@ -18,7 +18,7 @@ Fastest Delivery: 0 days (same-day shipping)
 Slowest Delivery: 7 days
 This indicates a decent delivery performance, but there's room to optimize those longer deliveries.
 ### 📈 4. Trend Analysis
-Profit Over Time:
+**Profit Over Time:**
 Spikes in Jan 2020 (18K) and Jan 2021 (15K) suggest seasonal demand or promotions.
 Some dips, like Jan 2019 (-3K) and Jan 2021 (1K), could indicate poor performance periods.
 Sales Over Time:
